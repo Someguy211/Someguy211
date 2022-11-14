@@ -16,7 +16,7 @@ Hi there, I'm **Kacper Kraj**,
 
 
 
-- 👨🏽‍💻 I’m currently an amaeteur programmer.
+- 👨🏽‍💻 I’m currently an amaeteur programmer and a senior in High School.
 - 🌱 I’m currently learning Java and plan to learn C++ afterwards.
 - 🤔 My interests are with Software Engineering and Machine Learning.
 - 💼 I am planning on obtaining a degree in Software Engineering.
