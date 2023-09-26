@@ -1,8 +1,6 @@
 ### Hey 👋, I'm Kacper!
 
-<a href="https://twitter.com/R6Kacper">
-  <img align="left" alt="My Twitter!" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-</a>
+
 
 
 
