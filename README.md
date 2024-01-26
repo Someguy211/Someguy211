@@ -17,7 +17,7 @@ Hi there, I'm **Kacper Kraj**,
 - 👨🏽‍💻 I’m currently an amaeteur programmer and a freshman in College.
 - 🌱 I’m currently learning Java and plan to learn Python afterwards.
 - 🤔 My interests are with Software Engineering and Machine Learning.
-- 💼 I am planning on obtaining a degree in Software Engineering.
+- 💼 I am planning on obtaining a degree in Computer Science.
 - 📫 Please email kacper3525@yahoo.com to reach me.
 
 
